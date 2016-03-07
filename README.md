@@ -6,3 +6,5 @@ All of these logos(emoji) are PNG with transparent backgrounds and set to 128x12
 
 ### Thanks
 A big thank you to @Cr0ybot and @ra100 for the anomaly & official logos
+
+Thank you to Robert Vaughan for the template used for the Level 1-16 of both factions
